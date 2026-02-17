@@ -13,19 +13,22 @@ O objetivo do projeto é demonstrar habilidades no desenvolvimento de sistemas D
 
 • Funcionalidades Implementadas
 
-## ✔ Autenticação de Usuário
+## Autenticação de Usuário
 - Validação de login e senha
 - Consulta doa dados cadastrados
 - Acesso liberado apenas com credenciais válidas
 
-## ✔ Cadastro de Usuário
+## Cadastro de Usuário
 - Inserção de dados no banco
 - Controle de nível de acesso
 
-## ✔ Cadastro de Cliente
+##  Cadastro de Cliente
 - Registro de informações básicas
 
 ---
+
+
+
 
 ## 📸 Telas do Sistema
 
