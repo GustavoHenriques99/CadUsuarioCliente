@@ -29,41 +29,41 @@ O objetivo do projeto é demonstrar habilidades no desenvolvimento de sistemas D
 
 ## 📸 Telas do Sistema
 
-<h3 align="center">🔐 Tela de Login</h3>
+<h3 align="center">• Tela de Login</h3>
 
 <p align="center">
-  <img src="IMG/LoginView.jpg" width="700"/>
+  <img src="img/LoginView.jpg" width="700"/>
 </p>
 
 ---
 
-<h3 align="center">👤 Cadastro de Usuário</h3>
+<h3 align="center">• Cadastro de Usuário</h3>
 
 <p align="center">
-  <img src="IMG/cadastroUsuarioView.jpg" width="700"/>
+  <img src="img/cadastroUsuarioView.jpg" width="700"/>
 </p>
 
 ---
 
-<h3 align="center">👥 Cadastro de Cliente</h3>
+<h3 align="center">• Cadastro de Cliente</h3>
 
 <p align="center">
-  <img src="IMG/cadastroCliente.jpg" width="700"/>
+  <img src="img/cadastroCliente.jpg" width="700"/>
 </p>
 
 ---
 
-<h3 align="center">✅ Popup de Confirmação</h3>
+<h3 align="center">• Popup de Confirmação</h3>
 
 <p align="center">
-  <img src="IMG/popupConfirmacao.jpg" width="700"/>
+  <img src="img/popupConfirmacao.jpg" width="700"/>
 </p>
 
 ---
 
-<h3 align="center">🗄️ Estrutura da Tabela Usuário (Banco de Dados)</h3>
+<h3 align="center">• Estrutura da Tabela Usuário (Banco de Dados)</h3>
 
 <p align="center">
-  <img src="IMG/tblUsuario.jpg" width="700"/>
+  <img src="img/tblUsuario.jpg" width="700"/>
 </p>
 
